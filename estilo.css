@@ -1,3 +1,19 @@
+
+*{
+  background-color: #155798
+}
+div{
+  text-align: center;
+  color: #FFFFFF;
+}
+section{
+  text-align:left;
+  color: white;
+}
+header{
+  color: white;
+}
+
 background: #c9de96;
 background: -moz-linear-gradient(-45deg,  #c9de96 0%, #8ab66b 44%, #398235 100%);
 background: -webkit-linear-gradient(-45deg,  #c9de96 0%,#8ab66b 44%,#398235 100%);
