@@ -1,14 +1,9 @@
 
-*{
+body{
   background-color: #155798;
   margin: 0;
   padding: 0;
-}
-
-header{
-  width: 842px;
-  height: 396px;
-  background: url(banner.png);
+  font-family: "Arial" , serif;
 }
 
 .imagenredonda{
@@ -16,5 +11,16 @@ header{
   height: 150px;
   border-radius: 150px;
   border-color: white;
-  border-width: 10px;
+  border-width: 50px;
+
+}
+
+.banner{
+    width: 100%;
+    display: block;
+}
+
+.banner > .banner-img{
+    width: 100%;
+    display: block;
 }
