@@ -48,3 +48,80 @@ section{
 div > img{
   margin-right: 1em;
 }
+
+.moebius{
+  color: white;
+  width: 298px;
+  border: 1px solid white;
+  margin: 20px 10px;
+  padding: 0px 5px;
+  float: left;
+}
+
+.moebius > p{
+   font-size: 14px;
+   max-width: 250px;
+}
+
+.trabajos{
+  width: 1000px;
+  margin: 0 auto;
+  }
+
+.moebius > h1{
+  font-size: 16px;
+  font-weight: bold;
+  background-color: white;
+  color: #155798;
+  padding: 10px 0px;
+  margin: -1px -6px;
+}
+
+img-trabajos{
+  max-width: 200px;
+  margin: 15px 0 0 0;
+}
+
+.heading{
+  text-align: left;
+  font-size: 28px;
+  color: white;
+  margin-top: 50px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+  border-style: hidden;
+  float: left;
+}
+
+.titulo{
+  margin-left: 20px;
+  color: blue;
+  background-color: white;
+  font-weight: bold;
+  font-size: 18px;
+  width: 250px;
+}
+
+.tabla{
+  margin-left: 425px;
+}
+
+.img-tabla{
+  max-width: 65px;
+}
+
+.descripcion{
+  color: white;
+
+}
+
+td > p {
+  margin: 0 0px;
+}
+
+td{
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  text-align: center;
+
+}
